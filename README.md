@@ -1,4 +1,5 @@
 # Altera-DE25-Nano
+<img src="de25-nano_preview.jpg">
 A repository of project examples using the Altera DE25 Nano development board
 
 Resouce links:
